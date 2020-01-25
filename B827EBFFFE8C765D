@@ -1,0 +1,18 @@
+{
+   "gateway_conf": {
+     "gateway_ID": "B827EBFFFE8C765D",
+     "servers": [
+       {
+         "server_address": "router.eu.thethings.network",
+         "serv_port_up": 1700,
+         "serv_port_down": 1700,
+         "serv_enabled": true
+       }
+     ],
+     "ref_latitude": 51.290540,
+     "ref_longitude": -0.238779,
+     "ref_altitude": 180,
+     "contact_email": "dnwigley@gmail.com",
+     "description": "wigleylora"
+   }
+ }
